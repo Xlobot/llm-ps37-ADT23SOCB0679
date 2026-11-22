@@ -1,0 +1,18 @@
+# Database Management Systems (DBMS) - End Semester Examination 2023
+Total Marks: 50 | Time: 2 Hours
+Instructions: Answer all questions.
+
+Q1. (a) Discuss the advantages of DBMS over traditional file-oriented systems. Explain Data Independence (Logical and Physical). [6 Marks]
+Q1. (b) Explain the role of Database Administrator (DBA) in database architecture. [4 Marks]
+
+Q2. (a) Design an ER diagram for a Hospital Management System with entities: Doctor, Patient, and Appointment. [6 Marks]
+Q2. (b) Convert an ER diagram construct containing weak entity sets into relational schema. [4 Marks]
+
+Q3. (a) Define Functional Dependency. State Armstrong's Axioms. [4 Marks]
+Q3. (b) What is Normalization? Explain BCNF (Boyce-Codd Normal Form) and compare it with 3NF. [6 Marks]
+
+Q4. (a) What is a Schedule? Differentiate between Conflict Serializable and View Serializable schedules. [6 Marks]
+Q4. (b) State and explain the ACID properties of database transactions. Why is Durability important? [6 Marks]
+
+Q5. (a) Explain Log-Based Recovery techniques (Immediate Database Modification vs Deferred Modification). [5 Marks]
+Q5. (b) What are B-Trees and B+ Trees? Compare their structure and usage in database indexing. [5 Marks]

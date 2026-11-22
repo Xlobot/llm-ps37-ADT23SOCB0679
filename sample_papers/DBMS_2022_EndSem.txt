@@ -1,0 +1,17 @@
+# Database Management Systems (DBMS) - End Semester Examination 2022
+Total Marks: 50 | Time: 2 Hours
+Instructions: Answer all questions.
+
+Q1. (a) Define DBMS. Compare File Processing System with Database Management System. [5 Marks]
+Q1. (b) Explain the Three-Schema Architecture of DBMS with a neat diagram. [5 Marks]
+
+Q2. (a) What is an Entity-Relationship (ER) model? Draw an ER diagram for a University Management System. [6 Marks]
+Q2. (b) Explain Primary Key, Candidate Key, Foreign Key, and Super Key with examples. [4 Marks]
+
+Q3. (a) What is Relational Algebra? Explain Selection, Projection, Union, and Cartesian Product operations. [6 Marks]
+Q3. (b) Explain First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF) with sample relations. [6 Marks]
+
+Q4. (a) Explain ACID properties of transactions with suitable real-world banking examples. [6 Marks]
+Q4. (b) What is Concurrency Control? Explain Two-Phase Locking (2PL) protocol. [6 Marks]
+
+Q5. (a) What is Indexing in databases? Differentiate between Primary Index, Secondary Index, and Clustering Index. [6 Marks]

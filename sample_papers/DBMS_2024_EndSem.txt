@@ -1,0 +1,18 @@
+# Database Management Systems (DBMS) - End Semester Examination 2024
+Total Marks: 50 | Time: 2 Hours
+Instructions: Answer all questions.
+
+Q1. (a) Explain 3-tier DBMS architecture and describe Physical vs Logical Data Independence. [5 Marks]
+Q1. (b) Explain different types of database users and functions of query processor. [5 Marks]
+
+Q2. (a) Draw an ER Diagram for an E-Commerce Online Shopping System showing entities, attributes, and relationships. [6 Marks]
+Q2. (b) Explain aggregation and generalization concepts in Enhanced ER (EER) modeling. [4 Marks]
+
+Q3. (a) What are anomalies in database design? Explain insertion, deletion, and update anomalies with examples. [5 Marks]
+Q3. (b) Decompose a given relation into 3NF and BCNF. Explain Lossless Join Decomposition. [6 Marks]
+
+Q4. (a) Explain ACID properties. Describe the states of a transaction using a transaction state diagram. [6 Marks]
+Q4. (b) Describe Deadlock handling in Concurrency Control: Deadlock Detection, Prevention (Wait-Die & Wound-Wait), and Recovery. [6 Marks]
+
+Q5. (a) Compare B+ Tree index with Hashing technique for query retrieval efficiency. [5 Marks]
+Q5. (b) Write short notes on: (i) Write-Ahead Logging (WAL) (ii) Checkpoints in recovery. [5 Marks]
